@@ -24,8 +24,14 @@ ressources partagées pendant le cours :
 
 creative technologist c'est quoi ce nouveau métier : https://start.lesechos.fr/travailler-mieux/metiers-reconversion/creative-technologist-c-est-quoi-ce-tout-nouveau-metier-4956.php
 
-pour en savoir sur OWNI : https://www.liberation.fr/ecrans/2011/06/08/un-owni-se-pose-sur-l-edition_956753 
+pour en savoir plus sur OWNI : https://www.liberation.fr/ecrans/2011/06/08/un-owni-se-pose-sur-l-edition_956753 
 
+et sur moi : https://www.numerama.com/tech/230559-qui-est-aurelien-fache-cet-api-artist-qui-vous-propose-de-faire-lamour-a-thomas-pesquet.html 
 
 
 ## cours 2
+
+Sides : AR - https://docs.google.com/presentation/d/1XGPqMjuZQTE2MAVoxHyvH2Uq3q_gGS2G6vkGtb7NAfs/edit#slide=id.g1e53e767c1_0_111
+
+
+
