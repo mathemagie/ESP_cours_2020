@@ -31,6 +31,16 @@ ressources partagées pendant le cours :
 
 ## cours 2
 
+créer un compte sur l'API météo : https://darksky.net/dev, prendre le temps de lire la documentation
+
+Exemple d'un appel à l'API Dark : https://api.darksky.net/forecast/de8d1bb1229534fc22af0784f5655bc4/48.856613,2.352222?lang=fr&units=auto
+
+exercices : changer de ville, d'unité de mesures,
+
+Le code source sur Glitch : https://api-meteo.glitch.me/
+
+autre exemple dans la consommation d'une API : https://api-iss.glitch.me/ 
+
 Sides : AR - https://docs.google.com/presentation/d/1XGPqMjuZQTE2MAVoxHyvH2Uq3q_gGS2G6vkGtb7NAfs/edit#slide=id.g1e53e767c1_0_111
 
 
