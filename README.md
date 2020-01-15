@@ -48,8 +48,16 @@ Ressources partagées pendant le cours sur la réalité augmentée :
 - https://creapills.com/burger-king-publicite-concurrents-20190326 
 - https://fr.wikipedia.org/wiki/Synesth%C3%A9sie
 - https://www.youtube.com/watch?v=JP_4t4IpLxQ
-- pub CoCa en réalita augmentée : https://twitter.com/creapills/status/1071345018445676544
+- pub CoCa en réalité augmentée : https://twitter.com/creapills/status/1071345018445676544
 - outils pour développer des fitres en réalités augmentés : https://sparkar.facebook.com/ar-studio/ ou en encore https://lensstudio.snapchat.com/ 
+- clip musical (qui peut être imaginé en réalité augmentée) : https://www.youtube.com/watch?gl=SN&hl=fr&v=yFE6qQ3ySXE 
+
+Veille sur la thematique réalité augmentée : 
+
+- s'abonner à mon compte twitter : https://twitter.com/mathemagie
+- s'abonner à ma newsletter : https://nuzzel.com/mathemagie/lsd
+
+Livres à lire pour approfondir la notion de réalité augmentée: https://www.augmentedhuman.co/, les deux livres de Charlie Fink : http://www.charliefink.com/ 
 
 
 
