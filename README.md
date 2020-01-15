@@ -31,17 +31,27 @@ ressources partagées pendant le cours :
 
 ## cours 2
 
-créer un compte sur l'API météo : https://darksky.net/dev, prendre le temps de lire la documentation
+Créer un compte sur l'API météo : https://darksky.net/dev, prendre le temps de lire la documentation
 
 Exemple d'un appel à l'API Dark : https://api.darksky.net/forecast/de8d1bb1229534fc22af0784f5655bc4/48.856613,2.352222?lang=fr&units=auto
 
-exercices : changer de ville, d'unité de mesures,
+Exercices : changer de ville, d'unité de mesures,
 
 Le code source sur Glitch : https://api-meteo.glitch.me/
 
-autre exemple dans la consommation d'une API : https://api-iss.glitch.me/ 
+Autre exemple dans la consommation d'une API : https://api-iss.glitch.me/ 
 
 Sides : AR - https://docs.google.com/presentation/d/1XGPqMjuZQTE2MAVoxHyvH2Uq3q_gGS2G6vkGtb7NAfs/edit#slide=id.g1e53e767c1_0_111
+
+Ressources partagées pendant le cours sur la réalité augmentée : 
+
+- https://creapills.com/burger-king-publicite-concurrents-20190326 
+- https://fr.wikipedia.org/wiki/Synesth%C3%A9sie
+- https://www.youtube.com/watch?v=JP_4t4IpLxQ
+- pub CoCa en réalita augmentée : https://twitter.com/creapills/status/1071345018445676544
+- outils pour développer des fitres en réalités augmentés : https://sparkar.facebook.com/ar-studio/ ou en encore https://lensstudio.snapchat.com/ 
+
+
 
 
 
