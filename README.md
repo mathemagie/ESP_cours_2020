@@ -59,6 +59,16 @@ Veille sur la thematique réalité augmentée :
 
 Livres à lire pour approfondir la notion de réalité augmentée: https://www.augmentedhuman.co/, les deux livres de Charlie Fink : http://www.charliefink.com/ 
 
+## cours 3
+
+- Control a PLAYBULB candle with Web Bluetooth : https://github.com/googlecodelabs/candle-bluetooth 
+
+- référénce mondiale des APIs par catégorie : https://www.programmableweb.com/ 
+
+
+## cours 4
+
+
 
 
 
