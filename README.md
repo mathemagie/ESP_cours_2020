@@ -59,6 +59,8 @@ Veille sur la thematique réalité augmentée :
 
 Livres à lire pour approfondir la notion de réalité augmentée: https://www.augmentedhuman.co/, les deux livres de Charlie Fink : http://www.charliefink.com/ 
 
+- mon ITW sur les réalités augmentées du podcast anti-brouillard : https://podcast.ausha.co/anti-brouillard-1/13-realite-alternative-aurelien-fache 
+
 ## cours 3
 
 - Control a PLAYBULB candle with Web Bluetooth : https://github.com/googlecodelabs/candle-bluetooth 
